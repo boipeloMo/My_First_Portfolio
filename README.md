@@ -14,9 +14,4 @@
 
 The `base_index.html` file was tested using the official W3C HTML Validator and is fully valid with no errors or warnings.
 
-## 🚀 How to Use
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/My_First_Portfolio.git
-   cd My_First_Portfolio/html_basic
