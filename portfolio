@@ -1,1 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Boipelo Moabi- Personal Portfolio</title>
+</head>
+<body>
+    <header>
+        <h1>Boipelo Moabi</h1>
+        <p>A passionate web developer | Innovator | Lifelong Learner</p>
+    </header>
 
+    <nav>
+        <ul>
+            <li><a href="#introduction">Introduction</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#about">About Me</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <section id="introduction">
+        <h2>Introduction</h2>
+        <p>Hello! I'm Boipelo Moabi, a dedicated web developer with a knack for building user-friendly and responsive web applications. I enjoy transforming complex problems into simple, beautiful, and intuitive designs.</p>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <article class="project">
+            <h3>Project One: Interactive Dashboard</h3>
+            <p>A dynamic dashboard built using HTML, CSS, and JavaScript, showcasing data visualization techniques and user interaction.</p>
+            <a href="https://github.com/YourGitHub/ProjectOne" target="_blank">View Project</a>
+        </article>
+        <article class="project">
+            <h3>Project Two: E-commerce Site Prototype</h3>
+            <p>A front-end prototype of an e-commerce website, focusing on product display, shopping cart functionality, and responsive design.</p>
+            <a href="https://github.com/YourGitHub/ProjectTwo" target="_blank">View Project</a>
+        </article>
+        <article class="project">
+            <h3>Project Three: Personal Blog</h3>
+            <p>A simple, clean blog platform developed to share thoughts and insights on technology and personal growth.</p>
+            <a href="https://github.com/YourGitHub/ProjectThree" target="_blank">View Project</a>
+        </article>
+    </section>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>I have a strong foundation in front-end technologies like HTML5, CSS3, and JavaScript. I'm also familiar with various frameworks and libraries. Beyond coding, I enjoy photography, hiking, and exploring new culinary experiences.</p>
+        <p>My skills include:</p>
+        <ul>
+            <li>HTML5 & CSS3</li>
+            <li>JavaScript (ES6+)</li>
+            <li>Responsive Design</li>
+            <li>Git & GitHub</li>
+            <li>Problem Solving</li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Feel free to reach out to me via:</p>
+        <p>Email: <a href="boipelomoabi6@gmail.com ">your.email@example.com</a></p>
+        <p>LinkedIn: <a href="www.linkedin.com/in/boipelo-moabi-726251261" target="_blank">linkedin.com/in/yourprofile</a></p>
+        <p>GitHub: <a href="https://github.com/boipeloMo" target="_blank">github.com/YourGitHub</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Boipelo Moabi</p>
+    </footer>
+</body>
+</html>
